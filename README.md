@@ -1,5 +1,7 @@
 # NodeChunks!
 
+Repo under construction. Needs to be published as NPM module and requires a small demo setup.
+
 ## Installation
 
 ### Cloning NodeChunks
