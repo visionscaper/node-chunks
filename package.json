@@ -1,0 +1,20 @@
+{
+  "name": "node-chunks",
+  "version": "1.0.0",
+  "description": "Mini framework on top of Express.js to create structured node (API) applications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "framework",
+    "API",
+    "structured"
+  ],
+  "dependencies": {
+    "jsface": "tnhu/jsface"
+  },
+
+  "author": "Freddy Snijder",
+  "license": "MIT"
+}
