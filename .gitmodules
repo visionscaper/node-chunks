@@ -1,0 +1,3 @@
+[submodule "libs/corelib-web"]
+	path = libs/corelib-web
+	url = https://github.com/visionscaper/corelib-web
